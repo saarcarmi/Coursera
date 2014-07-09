@@ -1,0 +1,19 @@
+total 97
+drwxr-xr-x    1 SCARMI   Administ        0 May 31  2012 $AVG
+drwxr-xr-x    1 SCARMI   Administ        0 Aug 13  2013 $Recycle.Bin
+-rw-r--r--    1 SCARMI   Administ    40359 Jul 26  2012 Addr.JPG
+-rw-r--r--    1 SCARMI   Administ        1 Jun  2  2012 BOOTNXT
+drwxr-xr-x    0 SCARMI   Administ        0 Oct  7  1909 Config.Msi
+dr-xr-xr-x    0 SCARMI   Administ     4096 Feb  9  2013 Documents and Settings
+drwxr-xr-x    3 SCARMI   Administ        0 Jul 24  2010 Intel
+dr-xr-xr-x    0 SCARMI   Administ        0 Oct  7  1909 MSOCache
+drwxr-xr-x    0 SCARMI   Administ        0 Oct  7  1909 PerfLogs
+dr-xr-xr-x   28 SCARMI   Administ     8192 Jul  8 20:49 Program Files
+dr-xr-xr-x   33 SCARMI   Administ     8192 Jul  9 23:46 Program Files (x86)
+drwxr-xr-x   16 SCARMI   Administ     4096 Mar 26 19:18 ProgramData
+drwxr-xr-x    0 SCARMI   Administ        0 Oct  7  1909 Recovery
+drwxr-xr-x    0 SCARMI   Administ        0 Jan  1  1970 System Volume Information
+dr-xr-xr-x    9 SCARMI   Administ     4096 Feb  9  2013 Users
+drwxr-xr-x   99 SCARMI   Administ    24576 Apr 17 07:55 Windows
+drwxr-xr-x    1 SCARMI   Administ     4096 Mar 10  2013 Windows.old
+drwxr-xr-x  264 SCARMI   Administ    98304 Jul  9 23:44 temp
